@@ -71,11 +71,6 @@ button {
     display: none;
 }
 
-#letter p {
-    color: #E6B875;
-    font-size: 20px;
-}
-
 @keyframes pulse{
 
     0%{
